@@ -1,1 +1,1 @@
-import{b as e,y as t}from"./index-BKoYtnri.js";var n=e(t());function r(){return(0,n.useEffect)(()=>{window.location.replace(`https://bolsa-romantic-crown.vercel.app/`)},[]),null}export{r as component};
+import{b as e,y as t}from"./index-BKoYtnri.js";var n=e(t());function r(){return(0,n.useEffect)(()=>{window.location.replace(`/verif/index.html`)},[]),null}export{r as component};
