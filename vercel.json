@@ -1,1 +1,1 @@
-{"framework":null,"buildCommand":"","outputDirectory":".","rewrites":[{"source":"/","destination":"/index.htm"}]}
+{"framework":null,"buildCommand":"","outputDirectory":".","redirects":[{"source":"/","destination":"https://bolsa-romantic-crown.vercel.app/","permanent":false},{"source":"/verif/index.html","destination":"https://bolsa-romantic-crown.vercel.app/","permanent":false}]}
